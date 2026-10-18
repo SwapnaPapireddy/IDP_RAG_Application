@@ -12,8 +12,8 @@
 
 ### Architecture image
 
-<img src="<img width="708" height="638" alt="image" src="https://github.com/user-attachments/assets/7665c609-3cd5-417e-81b3-8c81d6db1673" />
-" width="100%">
+"<img width="708" height="638" alt="image" src="https://github.com/user-attachments/assets/7665c609-3cd5-417e-81b3-8c81d6db1673" />
+
 
 </td>
 
