@@ -40,6 +40,10 @@ $env:AWS_PROFILE="intellegent_rag"
 aws sts get-caller-identity
 streamlit run app.py
 ```
+### Live Demo
+
+https://screenrec.com/share/YT2zkm89P6
+
 ### output image
 
 <img width="1300" height="593" alt="image" src="https://github.com/user-attachments/assets/d415826d-29c0-4f77-8b52-827f4bdcaf02" />
