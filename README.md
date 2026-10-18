@@ -40,6 +40,10 @@ $env:AWS_PROFILE="intellegent_rag"
 aws sts get-caller-identity
 streamlit run app.py
 ```
+### output image
+
+<img width="1300" height="593" alt="image" src="https://github.com/user-attachments/assets/d415826d-29c0-4f77-8b52-827f4bdcaf02" />
+
 
 ## IAM permissions
 The AWS identity needs S3 `s3:PutObject` on `arn:aws:s3:::YOUR_BUCKET/uploads/*` and Textract `textract:StartDocumentTextDetection`, `textract:GetDocumentTextDetection`, and `textract:DetectDocumentText`. Grant only the minimum permissions needed. This code does not create buckets or IAM roles.
