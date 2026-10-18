@@ -10,9 +10,10 @@
 7. A Hugging Face Transformers model (`google/flan-t5-base` by default) runs locally and answers from retrieved context.
 8. Streamlit displays the answer and source chunks/pages.
 
-### 🗄️ Loan Database
+### Architecture image
 
-<img src="https://screenrec.com/share/Hx2VJogGLc" width="100%">
+<img src="<img width="708" height="638" alt="image" src="https://github.com/user-attachments/assets/7665c609-3cd5-417e-81b3-8c81d6db1673" />
+" width="100%">
 
 </td>
 
