@@ -19,7 +19,7 @@
 
 <td align="center">
 
-**Amazon Bedrock is not used.** No Bedrock SDK calls, model invocation, SageMaker endpoint, or OpenSearch domain are created. The vector index is local FAISS.
+The vector index is local FAISS.
 
 ## Setup (Windows PowerShell)
 Use Python 3.10–3.12 for best compatibility with PyTorch/FAISS.
