@@ -10,6 +10,14 @@
 7. A Hugging Face Transformers model (`google/flan-t5-base` by default) runs locally and answers from retrieved context.
 8. Streamlit displays the answer and source chunks/pages.
 
+### 🗄️ Loan Database
+
+<img src="https://screenrec.com/share/Hx2VJogGLc" width="100%">
+
+</td>
+
+<td align="center">
+
 **Amazon Bedrock is not used.** No Bedrock SDK calls, model invocation, SageMaker endpoint, or OpenSearch domain are created. The vector index is local FAISS.
 
 ## Setup (Windows PowerShell)
