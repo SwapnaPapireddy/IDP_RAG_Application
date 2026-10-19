@@ -42,7 +42,7 @@ streamlit run app.py
 ```
 ### Live Demo
 
-https://screenrec.com/share/YT2zkm89P6
+https://screenrec.com/share/ZhCSugJ3iA
 
 ### output image
 
